@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/3fda673fb7bb457ba6805359626337d5.txt"
+    }
+  ]
+}
